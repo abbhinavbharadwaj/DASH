@@ -7,7 +7,7 @@ Though not optimised for industry level applications, this provides an innovativ
 - Note: The HTTPS certificate is not professional and has to be configured by the website owner, otherrwise a self made certificate can be installed onto the browsers.
 - There are multiple visions for this project, not all exclusive nor all innovative. Some of them are AI enhanced server and application security, terminal based control, SSH enabled control, plugin support, native app for ARM architectures, et cetera.
 
-Developer: 
+#####Developer: 
 Abbhinav Bharadwaj
 Sophomore 
 Electrical and Computer Engineering 
